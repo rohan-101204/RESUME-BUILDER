@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.my-img{
+width: 200px;
+border-radius:50%;
+}
+
+.background{
+    background-color:rgb(146, 233, 136);
+}
+
+#cv-template{
+    display: none;
+}
+
+.card-header{
+    background-color: #f0f0f05e;
+}
+.card-header h3{
+    font-weight: 300;
+}
